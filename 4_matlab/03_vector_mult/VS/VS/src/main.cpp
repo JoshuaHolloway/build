@@ -15,11 +15,10 @@ int main()
 
 	double a[2] = {1, 2};   
 	double b[2] = {1, 2};
-	double c[2] = {0};
 
-	*c = func(a, b);
+	double c = func(a, b);
 
-	printf("%f\n", *c);
+	printf("%f\n", c);
 	func_terminate();
 	getchar();
 	return 0;
