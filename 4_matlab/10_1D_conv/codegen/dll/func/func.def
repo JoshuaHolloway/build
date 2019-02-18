@@ -1,0 +1,4 @@
+EXPORTS
+func
+func_initialize
+func_terminate
