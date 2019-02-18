@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\dev\build\4_matlab\20_image_filtering\vs_20_image_filtering\vs_20_image_filtering\src\main.cpp(34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  vs_20_image_filtering.vcxproj -> C:\dev\build\4_matlab\20_image_filtering\vs_20_image_filtering\vs_20_image_filtering\bin\x64-Debug\vs_20_image_filtering.exe
