@@ -15,9 +15,6 @@ int main()
 	
 	func_initialize();
 
-	// a is 2x2 matrix
-	// b is 2x2 matrix
-
 	double* x_ = new double[N * N];
 	for (size_t i = 0; i < N * N; i++)
 		x_[i] = static_cast<double>(*(x.data + i));
@@ -26,7 +23,7 @@ int main()
 	for (size_t i = 0; i < 3 * 3; ++i)
 		h[i] = 1. / 9.;
 
-	double* y_ = new double[512 * 512];
+	double* y_ = new double[N * N];
 
 	//extern void func(const double x[262144], const double h[9], double y[262144]);
 	func(x_, h, y_);

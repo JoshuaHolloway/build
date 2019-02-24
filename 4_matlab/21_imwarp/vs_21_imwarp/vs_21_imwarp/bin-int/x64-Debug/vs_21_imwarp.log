@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\dev\build\4_matlab\21_imwarp\vs_21_imwarp\vs_21_imwarp\src\main.cpp(39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  vs_21_imwarp.vcxproj -> C:\dev\build\4_matlab\21_imwarp\vs_21_imwarp\vs_21_imwarp\bin\x64-Debug\vs_21_imwarp.exe
