@@ -2,7 +2,7 @@
 ## Makefile generated for MATLAB file/project 'func'. 
 ## 
 ## Makefile     : func_rtw.mk
-## Generated on : Mon Feb 25 23:49:55 2019
+## Generated on : Tue Feb 26 00:42:42 2019
 ## MATLAB Coder version: 4.1 (R2018b)
 ## 
 ## Build Info:

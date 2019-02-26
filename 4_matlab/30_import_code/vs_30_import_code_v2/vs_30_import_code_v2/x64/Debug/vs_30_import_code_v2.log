@@ -1,6 +1,0 @@
-﻿  func.c
-  func_initialize.c
-  func_terminate.c
-  main.c
-  Generating Code...
-  vs_30_import_code_v2.vcxproj -> C:\dev\build\4_matlab\30_import_code\vs_30_import_code_v2\x64\Debug\vs_30_import_code_v2.exe
