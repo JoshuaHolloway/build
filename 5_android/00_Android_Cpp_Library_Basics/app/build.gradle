@@ -14,16 +14,6 @@ android {
                 cppFlags ""
             }
         }
-
-        ndk {
-            moduleName "MyLibrary"
-        }
-
-        sourceSets.main {
-            jni.srcDirectory = []
-            jniLibs.srcDir "src/main/libs"
-        }
-
     }
     buildTypes {
         release {
