@@ -1,15 +1,17 @@
+.rsp
+
 # Prerequisites
-#*.d
+*.d
 
 # Compiled Object files
-#*.slo
-#*.lo
-#*.o
-#*.obj
+*.slo
+*.lo
+*.o
+*.obj
 
 # Precompiled Headers
-#*.gch
-#*.pch
+*.gch
+*.pch
 
 # Compiled Dynamic libraries
 #*.so
@@ -17,16 +19,16 @@
 #*.dll
 
 # Fortran module files
-#*.mod
-#*.smod
+*.mod
+*.smod
 
 # Compiled Static libraries
-#*.lai
-#*.la
-#*.a
+*.lai
+*.la
+*.a
 #*.lib
 
 # Executables
-#*.exe
-#*.out
-#*.app
+*.exe
+*.out
+*.app

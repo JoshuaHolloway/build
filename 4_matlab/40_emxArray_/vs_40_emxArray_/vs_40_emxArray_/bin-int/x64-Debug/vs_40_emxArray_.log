@@ -1,0 +1,9 @@
+﻿  func.c
+c:\dev\build\4_matlab\40_emxarray_\vs_40_emxarray_\vs_40_emxarray_\src\func.h(18): fatal error C1083: Cannot open include file: 'rtwtypes.h': No such file or directory
+  func_initialize.c
+c:\dev\build\4_matlab\40_emxarray_\vs_40_emxarray_\vs_40_emxarray_\src\func.h(18): fatal error C1083: Cannot open include file: 'rtwtypes.h': No such file or directory
+  func_terminate.c
+c:\dev\build\4_matlab\40_emxarray_\vs_40_emxarray_\vs_40_emxarray_\src\func.h(18): fatal error C1083: Cannot open include file: 'rtwtypes.h': No such file or directory
+  sort1.c
+c:\dev\build\4_matlab\40_emxarray_\vs_40_emxarray_\vs_40_emxarray_\src\func.h(18): fatal error C1083: Cannot open include file: 'rtwtypes.h': No such file or directory
+  Generating Code...

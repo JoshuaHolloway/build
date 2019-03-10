@@ -1,0 +1,14 @@
+libemlrt.lib
+libcovrt.lib
+libut.lib
+libmwmathutil.lib
+/export:mexFunction
+/export:mexfilerequiredapiversion
+/export:emlrtMexFcnProperties
+/export:func
+/export:emxEnsureCapacity_real_T
+/export:emxFree_real_T
+/export:emxInit_real_T
+/export:func_initialize
+/export:func_terminate
+/export:func_atexit
