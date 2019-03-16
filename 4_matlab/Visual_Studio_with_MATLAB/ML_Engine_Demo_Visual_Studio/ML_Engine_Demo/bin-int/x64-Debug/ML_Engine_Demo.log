@@ -1,0 +1,3 @@
+﻿  MLenginedemo.cpp
+c:\dev\build\4_matlab\visual_studio_with_matlab\ml_engine_demo_visual_studio\ml_engine_demo\mlenginedemo.cpp(41): warning C4101: 'buffer': unreferenced local variable
+  ML_Engine_Demo.vcxproj -> C:\dev\build\4_matlab\Visual_Studio_with_MATLAB\ML_Engine_Demo_Visual_Studio\ML_Engine_Demo\bin\x64-Debug\ML_Engine_Demo.exe
