@@ -22,13 +22,17 @@ The ML_Engine_Demo_Visual_Studio contains the solution/project that is connected
         $(SolutionDir)$(ProjectName)\bin-int\$(Platform)-$(Configuration)\
 
     Additional Include Directories:
-        $(SolutionDir)..\codegen\dll\func;$(MATLABROOT)\extern\include
+        $(MATLABROOT)\extern\include
 
     Additional Library Directories:
-        $(SolutionDir)..\codegen\dll\func
+        $(MATLABROOT)\extern\lib\win64\microsoft
+        ML_Engine_Demo_Visual_Studio\ML_Engine_Demo
 
     Additional Dependencies
-        func.lib
+        libmx.lib
+        libmat.lib
+        libeng.lib
+        libmwimfilter.lib
         
 ## MATLAB:
     R2018b (9.5.0.944444)
