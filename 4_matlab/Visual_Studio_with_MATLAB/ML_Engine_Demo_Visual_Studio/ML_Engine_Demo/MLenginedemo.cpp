@@ -56,7 +56,7 @@ int PASCAL WinMain (HINSTANCE hInstance,
 	 *		- Quickly inject retrieve and preprocess images before hardware/firmware is ready
 	 *		- Visualize data using MATLAB plots 
 	 */
-	engEvalString(ep, "cd C:/dev/build/4_matlab/Visual_Studio_with_MATLAB/MATLAB_Demo_Files");
+	engEvalString(ep, "cd MATLAB_Demo_Files");
 	engEvalString(ep, "img = imread('Toy_Candy_Image.jpg');");	// Read in image to process
 	engEvalString(ep, "Igray = rgb2gray(img);");		// Convert to grayscale
 	engEvalString(ep, "IgraySize = size(Igray);");		// Image size in datatype of custom Code

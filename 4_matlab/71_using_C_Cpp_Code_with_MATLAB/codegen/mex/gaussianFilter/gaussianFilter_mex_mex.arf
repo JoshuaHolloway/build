@@ -1,0 +1,11 @@
+libemlrt.lib
+libcovrt.lib
+libut.lib
+libmwmathutil.lib
+/export:mexFunction
+/export:mexfilerequiredapiversion
+/export:emlrtMexFcnProperties
+/export:gaussianFilter
+/export:gaussianFilter_initialize
+/export:gaussianFilter_terminate
+/export:gaussianFilter_atexit
