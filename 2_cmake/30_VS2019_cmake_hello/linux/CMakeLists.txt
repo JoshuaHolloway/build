@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 3.10)
 project(MyProject VERSION 1.0.0)
 
-add_executable(josh main.cpp)
+add_executable(josh_executable main.cpp)

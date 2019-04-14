@@ -1,5 +1,6 @@
+@echo off
 mkdir build
 cd build
-rm CmakeCache.txt
+REM rm CmakeCache.txt
 
-cmake ..
+cmake .. REM Uses VS-2019 as default
