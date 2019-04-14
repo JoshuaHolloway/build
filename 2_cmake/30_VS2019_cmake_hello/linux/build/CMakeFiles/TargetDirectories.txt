@@ -1,0 +1,3 @@
+/mnt/d/dev/build/2_cmake/30_VS2019_cmake_hello/linux/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/dev/build/2_cmake/30_VS2019_cmake_hello/linux/build/CMakeFiles/josh.dir
+/mnt/d/dev/build/2_cmake/30_VS2019_cmake_hello/linux/build/CMakeFiles/edit_cache.dir
