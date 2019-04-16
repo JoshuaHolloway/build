@@ -1,3 +1,0 @@
-/mnt/c/dev/build/2_cmake/00_hello_v2.29.3/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/dev/build/2_cmake/00_hello_v2.29.3/build/CMakeFiles/josh.dir
-/mnt/c/dev/build/2_cmake/00_hello_v2.29.3/build/CMakeFiles/edit_cache.dir

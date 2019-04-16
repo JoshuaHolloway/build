@@ -1,0 +1,4 @@
+D:/dev/build/2_cmake/01_adding_library/1_windows/build/CMakeFiles/josh.dir
+D:/dev/build/2_cmake/01_adding_library/1_windows/build/CMakeFiles/say-hello.dir
+D:/dev/build/2_cmake/01_adding_library/1_windows/build/CMakeFiles/ALL_BUILD.dir
+D:/dev/build/2_cmake/01_adding_library/1_windows/build/CMakeFiles/ZERO_CHECK.dir

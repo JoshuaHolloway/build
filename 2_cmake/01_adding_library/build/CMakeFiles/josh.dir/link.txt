@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/josh.dir/main.cpp.o  -o josh libsay-hello.a 

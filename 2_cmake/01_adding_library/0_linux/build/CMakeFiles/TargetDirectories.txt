@@ -1,0 +1,4 @@
+/mnt/d/dev/build/2_cmake/01_adding_library/0_linux/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/dev/build/2_cmake/01_adding_library/0_linux/build/CMakeFiles/edit_cache.dir
+/mnt/d/dev/build/2_cmake/01_adding_library/0_linux/build/CMakeFiles/say-hello.dir
+/mnt/d/dev/build/2_cmake/01_adding_library/0_linux/build/CMakeFiles/josh.dir

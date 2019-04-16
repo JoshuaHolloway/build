@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/dev/build/2_cmake/01_adding_library/0_linux/hello.hpp
+
+/mnt/d/dev/build/2_cmake/01_adding_library/0_linux/main.cpp
+hello.hpp
+/mnt/d/dev/build/2_cmake/01_adding_library/0_linux/hello.hpp
+

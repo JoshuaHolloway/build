@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/dev/build/2_cmake/30_VS2019_cmake_hello/windows/CMakeLists.txt
+  CMake does not need to re-run because D:/dev/build/2_cmake/30_VS2019_cmake_hello/windows/build/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+  josh.vcxproj -> D:\dev\build\2_cmake\30_VS2019_cmake_hello\windows\build\Debug\josh.exe
