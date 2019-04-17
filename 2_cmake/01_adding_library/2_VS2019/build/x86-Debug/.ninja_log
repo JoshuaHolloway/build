@@ -1,0 +1,5 @@
+# ninja log v5
+1	461	577241441	CMakeFiles/say-hello.dir/hello.cpp.obj	22b3ef4c8cbced71
+462	504	577241441	say-hello.lib	b4554e0f63e5ad6f
+1	182	577241541	CMakeFiles/josh.dir/main.cpp.obj	e29a721ea15be5c
+182	626	577241541	josh.exe	76eaa515bb8cdf7d

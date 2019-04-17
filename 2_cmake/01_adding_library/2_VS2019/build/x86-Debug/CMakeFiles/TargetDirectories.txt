@@ -1,0 +1,4 @@
+D:/dev/build/2_cmake/01_adding_library/2_VS2019/build/x86-Debug/CMakeFiles/rebuild_cache.dir
+D:/dev/build/2_cmake/01_adding_library/2_VS2019/build/x86-Debug/CMakeFiles/josh.dir
+D:/dev/build/2_cmake/01_adding_library/2_VS2019/build/x86-Debug/CMakeFiles/say-hello.dir
+D:/dev/build/2_cmake/01_adding_library/2_VS2019/build/x86-Debug/CMakeFiles/edit_cache.dir

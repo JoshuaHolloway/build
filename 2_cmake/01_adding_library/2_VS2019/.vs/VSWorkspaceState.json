@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\D:\\dev\\build\\2_cmake\\01_adding_library\\2_VS2019\\CMakeLists.txt",
+    "\\D:\\dev\\build\\2_cmake\\01_adding_library\\2_VS2019\\CMakeLists.txt\\josh.exe"
   ],
-  "SelectedNode": "\\main.cpp",
+  "SelectedNode": "\\D:\\dev\\build\\2_cmake\\01_adding_library\\2_VS2019\\CMakeLists.txt\\josh.exe\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
