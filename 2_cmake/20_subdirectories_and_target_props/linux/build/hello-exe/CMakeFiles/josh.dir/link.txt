@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/josh.dir/main.cpp.o  -o josh ../say-hello/libsay-hello.a 

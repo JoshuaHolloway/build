@@ -1,0 +1,8 @@
+/mnt/d/dev/build/2_cmake/20_subdirectories_and_target_props/linux/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/dev/build/2_cmake/20_subdirectories_and_target_props/linux/build/CMakeFiles/edit_cache.dir
+/mnt/d/dev/build/2_cmake/20_subdirectories_and_target_props/linux/build/say-hello/CMakeFiles/rebuild_cache.dir
+/mnt/d/dev/build/2_cmake/20_subdirectories_and_target_props/linux/build/say-hello/CMakeFiles/say-hello.dir
+/mnt/d/dev/build/2_cmake/20_subdirectories_and_target_props/linux/build/say-hello/CMakeFiles/edit_cache.dir
+/mnt/d/dev/build/2_cmake/20_subdirectories_and_target_props/linux/build/hello-exe/CMakeFiles/rebuild_cache.dir
+/mnt/d/dev/build/2_cmake/20_subdirectories_and_target_props/linux/build/hello-exe/CMakeFiles/josh.dir
+/mnt/d/dev/build/2_cmake/20_subdirectories_and_target_props/linux/build/hello-exe/CMakeFiles/edit_cache.dir
