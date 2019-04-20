@@ -1,0 +1,3 @@
+D:/dev/build/2_cmake/12_vs-code/0_hello/build/CMakeFiles/josh_executable.dir
+D:/dev/build/2_cmake/12_vs-code/0_hello/build/CMakeFiles/edit_cache.dir
+D:/dev/build/2_cmake/12_vs-code/0_hello/build/CMakeFiles/rebuild_cache.dir

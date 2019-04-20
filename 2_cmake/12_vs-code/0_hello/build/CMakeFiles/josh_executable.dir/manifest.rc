@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/dev/build/2_cmake/12_vs-code/0_hello/build/CMakeFiles/josh_executable.dir/embed.manifest"

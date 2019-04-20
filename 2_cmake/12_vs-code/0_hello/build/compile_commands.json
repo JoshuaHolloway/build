@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/dev/build/2_cmake/12_vs-code/0_hello/build",
+  "command": "C:\\apps\\VS\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\josh_executable.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\dev\\build\\2_cmake\\12_vs-code\\0_hello\\main.cpp",
+  "file": "D:/dev/build/2_cmake/12_vs-code/0_hello/main.cpp"
+}
+]
